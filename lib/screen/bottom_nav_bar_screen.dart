@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:grocries_app/constants/app_colors.dart';
 import 'package:grocries_app/screen/account_screen.dart';
 import 'package:grocries_app/screen/cart_screen.dart';
 import 'package:grocries_app/screen/explore_screen.dart';
@@ -15,7 +16,7 @@ class BottomNavBarScreen extends StatefulWidget {
 class _BottomNavBarScreenState extends State<BottomNavBarScreen> {
   int currentIndex = 0;
   List<Widget> screens=[
-    ShopeScreen(),
+    ShopScreen(),
     ExploreScreen(),
     CartScreen(),
     FavoriteScreen(),
@@ -35,8 +36,8 @@ class _BottomNavBarScreenState extends State<BottomNavBarScreen> {
           });
         },
         type: BottomNavigationBarType.fixed,
-        backgroundColor: Colors.white,
-        selectedItemColor: Color(0xff53B175),
+        backgroundColor: AppColors.white,
+        selectedItemColor: AppColors.primary,
         items: [
           BottomNavigationBarItem(icon: Icon(Icons.storefront), label: "shop"),
           BottomNavigationBarItem(

@@ -1,17 +1,7 @@
-# grocries_app
+<img width="<img width="1080" height="2400" alt="Screenshot_20260816_164345" src="https://github.com/user-attachments/assets/4003b836-46c4-4e66-ae6f-17770bf629f6" />
+1080" height="2400" alt="Screenshot_20260816_053132" src="https://github.com/user-attachments/assets/a041ed22-0e09-462d-8ac5-a4248b7713b6" />
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1080" height="2400" alt="Screenshot_20260816_053132" src="https://github.com/user-attachments/assets/16b7a1f7-4301-47b4-9f8e-a19db250c1be" />
