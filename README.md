@@ -9,3 +9,9 @@
 
 
 <img width="1080" height="2400" alt="Screenshot_20260819_075134" src="https://github.com/user-attachments/assets/cdca7b41-5c99-423f-8715-0e2210643a02" />
+
+
+<img width="1080" height="2400" alt="Screenshot_20260822_202737" src="https://github.com/user-attachments/assets/862aefcd-3bf7-44b9-82be-5e59dcdac68d" />
+
+<img width="1080" height="2400" alt="Screenshot_20260822_202815" src="https://github.com/user-attachments/assets/90b1d369-90f0-46c2-b117-639b068330ef" />
+
