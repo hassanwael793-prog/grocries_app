@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'custom_text_field.dart';
+import '../custom_text_field.dart';
 
 class SignUpPassword extends StatelessWidget{
   const SignUpPassword({super.key});

@@ -18,7 +18,7 @@ class _BottomNavBarScreenState extends State<BottomNavBarScreen> {
   List<Widget> screens=[
     ShopScreen(),
     ExploreScreen(),
-    CartScreen(),
+    CartScreen1(),
     FavoriteScreen(),
     AccountScreen(),
   ];

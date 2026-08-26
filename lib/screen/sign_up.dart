@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'package:grocries_app/widegets/button_sign.dart';
+import 'package:grocries_app/widegets/sign_up_widgits/button_sign.dart';
 import 'package:grocries_app/widegets/custom_text_field.dart';
 import 'package:grocries_app/widegets/end_Text_sign.dart';
 import 'package:grocries_app/widegets/login_header.dart';
 import 'package:grocries_app/widegets/s_text.dart';
 import 'package:grocries_app/widegets/s_username.dart';
-import 'package:grocries_app/widegets/sign_up_email.dart';
-import 'package:grocries_app/widegets/sign_up_header.dart';
-import 'package:grocries_app/widegets/sign_up_password.dart';
+import 'package:grocries_app/widegets/sign_up_widgits/sign_up_email.dart';
+import 'package:grocries_app/widegets/sign_up_widgits/sign_up_header.dart';
+import 'package:grocries_app/widegets/sign_up_widgits/sign_up_password.dart';
 
 class SignInScreen extends StatefulWidget {
   const SignInScreen({super.key});

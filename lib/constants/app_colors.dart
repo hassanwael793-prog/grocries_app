@@ -9,7 +9,9 @@ class AppColors {
   static const Color white = Colors.white;
   static const Color card = Color(0xffE2E2E2);
   static const Color card2 = Color(0xffF8A44C);
-
+  static const Color product = Color(0xffF2F3F2);
+  static const Color box=    Color(0xFFEBEBEB)
+  ;
 
   static const Color categoryOrange = Color(0xFFFFF1E5);
   static const Color categoryGreen = Color(0xFFE8F5E9);

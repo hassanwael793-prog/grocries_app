@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:grocries_app/constants/app_colors.dart';
+import 'package:grocries_app/screen/product_details.dart';
 import 'package:grocries_app/widegets/home_screen_widgets/groeceries.dart';
 import 'package:grocries_app/widegets/home_screen_widgets/location_bar.dart';
 import 'package:grocries_app/widegets/home_screen_widgets/product_item.dart';
@@ -49,7 +50,7 @@ class ShopScreen extends StatelessWidget {
               height: 360,
               child: ListView.separated(
                 itemCount: 4,
-                itemBuilder: (context, index) => product[index],
+                itemBuilder: (context, index) => product(context)[index],
                 separatorBuilder: (context, index) => SizedBox(width: 10),
                 scrollDirection: Axis.horizontal,
               ),
@@ -128,25 +129,36 @@ class ShopScreen extends StatelessWidget {
   }
 }
 
-List<Widget> product = [
+List<Widget> product(BuildContext context) => [
   ProductItem(
     image: "image/zamalek.png",
     text: "Zamalek",
     subText: "Priceless ❤️",
     price: 999999.9,
   ),
+
   ProductItem(
     image: "image/banabas.png",
     text: "Organic Bananas",
     subText: "7pcs, Priceg",
     price: 4.99,
   ),
+
   ProductItem(
     image: "image/apple.png",
     text: "Red Apple",
     subText: "1kg, Price",
     price: 4.99,
+    onTap: () {
+      Navigator.push(
+        context,
+        MaterialPageRoute(
+          builder: (context) => const ProductDetails(),
+        ),
+      );
+    },
   ),
+
   ProductItem(
     image: "image/orange.webp",
     text: "Berries",
