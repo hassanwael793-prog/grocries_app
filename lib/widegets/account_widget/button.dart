@@ -12,7 +12,7 @@ class ButtonAccount extends StatelessWidget{
   Widget build(BuildContext context) {
     // TODO: implement build
     return  Container(
-      padding: EdgeInsets.symmetric(vertical: 24),
+      padding: EdgeInsets.symmetric(vertical: 22),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(19),
         color: Color(0xffF2F3F2),
@@ -25,7 +25,7 @@ class ButtonAccount extends StatelessWidget{
             Icon(Icons.logout_outlined,color: AppColors.primary,),
 
             Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 130.0),
+              padding: const EdgeInsets.symmetric(horizontal: 120.0),
               child: Text("Log Out",style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.w600,

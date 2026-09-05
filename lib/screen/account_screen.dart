@@ -11,26 +11,28 @@ class AccountScreen extends StatelessWidget {
     return SafeArea(
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 16.0,vertical: 20),
-        child: Column(
-          children: [
-            ProfilInfo(),
-            SizedBox(height: 30,),
-            Divider(),
-            AccountOption(text: "Orders", icon: Icons.shopping_bag_outlined),
-            AccountOption(text: "My Details", icon: Icons.badge_outlined),
-            AccountOption(text: "Delivery Address", icon: Icons.location_on_outlined),
-            AccountOption(text: "Payment Methods", icon: Icons.credit_card_outlined),
-            AccountOption(text: "Promo Cord", icon: Icons.confirmation_number_outlined),
-            AccountOption(text: "Notifecations ", icon: Icons.notifications_none_outlined),
-            AccountOption(text: "Help", icon: Icons.help_outline),
-            AccountOption(text: "About ", icon: Icons.error_outline),
-            SizedBox(height: 50,),
-            ButtonAccount(),
+        child: ListView(
+          children: [Column(
+            children: [
+              ProfilInfo(),
+              SizedBox(height: 30,),
+              Divider(),
+              AccountOption(text: "Orders", icon: Icons.shopping_bag_outlined),
+              AccountOption(text: "My Details", icon: Icons.badge_outlined),
+              AccountOption(text: "Delivery Address", icon: Icons.location_on_outlined),
+              AccountOption(text: "Payment Methods", icon: Icons.credit_card_outlined),
+              AccountOption(text: "Promo Cord", icon: Icons.confirmation_number_outlined),
+              AccountOption(text: "Notifications ", icon: Icons.notifications_none_outlined),
+              AccountOption(text: "Help", icon: Icons.help_outline),
+              AccountOption(text: "About ", icon: Icons.error_outline),
+              SizedBox(height: 20,),
+              ButtonAccount(),
 
 
-      
-          ]
-        ),
+
+            ]
+          ),
+       ] ),
       ),
     );
 
