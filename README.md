@@ -22,4 +22,5 @@
 <img width="1344" height="2992" alt="Screenshot_20260826_172430" src="https://github.com/user-attachments/assets/9524c96a-d9d0-4f50-bd05-35252de4b0d5" />
 
 
-![Uploading Screenshot_20260905_203116.png…]()
+<img width="1080" height="2424" alt="Screenshot_20260905_203116" src="https://github.com/user-attachments/assets/02f4d131-c10a-4d83-b9cd-e46c2596249d" />
+
