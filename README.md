@@ -1,32 +1,6 @@
-# 🛒 Groceries App UI
-
-## 🍱 UI Preview
-
-<table>
-  <tr>
-    <td width="20%"><img src="screenshots/splash.png" /></td>
-    <td width="20%"><img src="screenshots/onboarding.png" /></td>
-    <td width="20%"><img src="screenshots/login.png" /></td>
-    <td width="20%"><img src="screenshots/signup.png" /></td>
-    <td width="20%"><img src="screenshots/home.png" /></td>
-  </tr>
-  <tr>
-    <td width="20%"><img src="screenshots/bestselling.png" /></td>
-    <td width="20%"><img src="screenshots/product_details.png" /></td>
-    <td width="20%"><img src="screenshots/explore.png" /></td>
-    <td width="20%"><img src="screenshots/beverages.png" /></td>
-    <td width="20%"><img src="screenshots/filters.png" /></td>
-  </tr>
-  <tr>
-    <td width="20%"><img src="screenshots/search.png" /></td>
-    <td width="20%"><img src="screenshots/cart.png" /></td>
-    <td width="20%"><img src="screenshots/checkout.png" /></td>
-    <td width="20%"><img src="screenshots/order_accepted.png" /></td>
-    <td width="20%"><img src="screenshots/favorite.png" /></td>
-  </tr>
-</table>
 
 
+<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/0fe35cd5-adbc-4045-8905-c99317fcb093" />
 
 
 <img width="<img width="1080" height="2400" alt="Screenshot_20260816_164345" src="https://github.com/user-attachments/assets/4003b836-46c4-4e66-ae6f-17770bf629f6" />
@@ -54,4 +28,7 @@
 
 
 <img width="1080" height="2424" alt="Screenshot_20260905_203116" src="https://github.com/user-attachments/assets/02f4d131-c10a-4d83-b9cd-e46c2596249d" />
+<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/28eb90e4-8c54-4f63-92e1-55b4e54ff2c6" />
+<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/30f6685e-3c82-4e51-98e6-3cb5df73158e" />
+<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/34b1b97e-343b-4b8f-9878-49a26567b5b9" />
 
