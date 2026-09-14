@@ -7,6 +7,8 @@ import 'package:grocries_app/widegets/custom_text_field.dart';
 import 'package:grocries_app/widegets/end_text.dart';
 import 'package:grocries_app/widegets/login_header.dart';
 
+import 'bottom_nav_bar_screen.dart';
+
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
   @override
@@ -75,10 +77,15 @@ class _LoginScreenState extends State<LoginScreen> {
                 ),
                 Button(
                   onTap: () {
-                    if (_formKey.currentState!.validate()) {
-                      print('done');
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => BottomNavBarScreen(),
+                      ),
+                    );
                     }
-                  },
+
+
                 ),    SizedBox(
                   height: 25,
                 ),
