@@ -22,7 +22,8 @@
     <td width="20%"><img src="https://github.com/user-attachments/assets/a11ddfd9-1f76-4965-b379-59e9cbdc71db" alt="Cart Screen" /></td>
     <td width="20%"><img src="https://github.com/user-attachments/assets/9aa28724-362a-4794-aa22-d74020b36257" alt="Checkout Sheet" /></td>
     <td width="20%"><img src="https://github.com/user-attachments/assets/b8e41991-95f0-4a34-881e-95f259749ace" alt="Order Accepted" /></td>
-    <td width="20%"><img src="https://github.com/user-attachments/assets/7d5591ef-9201-4fa2-b19a-d3f54181e94b" alt="Favorites" /></td>
+    <img width="1344" height="2992" alt="Screenshot_20260914_035755" src="https://github.com/user-attachments/assets/00bbae1e-d10d-4ee6-9583-26d74b60a6df" />
+
   </tr>
   <tr>
     <td width="20%"><img src="YOUR_NEW_IMAGE_URL_HERE" alt="Favorite with Bottom Nav" /></td>
