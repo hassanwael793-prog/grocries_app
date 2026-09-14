@@ -1,36 +1,27 @@
+# 🛒 Groceries App UI
 
+## 📱 UI Preview
 
-<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/0fe35cd5-adbc-4045-8905-c99317fcb093" />
-<img width="1080" height="2340" alt="onboarding" src="https://github.com/user-attachments/assets/7b22e658-e1a2-43b9-99f2-f98f8ee070a5" />
-
-
-<img width="<img width="1080" height="2400" alt="Screenshot_20260816_164345" src="https://github.com/user-attachments/assets/4003b836-46c4-4e66-ae6f-17770bf629f6" />
-1080" height="2400" alt="Screenshot_20260816_053132" src="https://github.com/user-attachments/assets/a041ed22-0e09-462d-8ac5-a4248b7713b6" />
-
-
-
-
-<img width="1080" height="2400" alt="Screenshot_20260816_053132" src="https://github.com/user-attachments/assets/16b7a1f7-4301-47b4-9f8e-a19db250c1be" />
-
-
-
-<img width="1080" height="2400" alt="Screenshot_20260819_075134" src="https://github.com/user-attachments/assets/cdca7b41-5c99-423f-8715-0e2210643a02" />
-
-
-<img width="1080" height="2400" alt="Screenshot_20260822_202737" src="https://github.com/user-attachments/assets/862aefcd-3bf7-44b9-82be-5e59dcdac68d" />
-
-<img width="1080" height="2400" alt="Screenshot_20260822_202815" src="https://github.com/user-attachments/assets/90b1d369-90f0-46c2-b117-639b068330ef" />
-
-
-<img width="1344" height="2992" alt="Screenshot_20260826_172501" src="https://github.com/user-attachments/assets/46c23519-7d9f-466a-b5e4-6c05e654b900" />
-
-
-<img width="1344" height="2992" alt="Screenshot_20260826_172430" src="https://github.com/user-attachments/assets/9524c96a-d9d0-4f50-bd05-35252de4b0d5" />
-
-
-<img width="1080" height="2424" alt="Screenshot_20260905_203116" src="https://github.com/user-attachments/assets/02f4d131-c10a-4d83-b9cd-e46c2596249d" />
-<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/28eb90e4-8c54-4f63-92e1-55b4e54ff2c6" />
-<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/30f6685e-3c82-4e51-98e6-3cb5df73158e" />
-<img width="1080" height="2340" alt="splash" src="https://github.com/user-attachments/assets/34b1b97e-343b-4b8f-9878-49a26567b5b9" />
-<img width="1344" height="2992" alt="Screenshot_20260914_030630" src="https://github.com/user-attachments/assets/7b75889a-bf39-4369-aca0-63788e84c067" />
-
+<table>
+  <tr>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/60f6e3ce-ad8f-4f42-b768-025b52587c57" alt="Splash" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/7df5da97-fce6-4b10-b675-fe760df16185" alt="Onboarding" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/3b5d4906-c14c-4b96-a12d-7901caa83d2b" alt="Login" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/fed8f090-d84c-4d5e-a41a-78bafbb01725" alt="Sign Up" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/71d3836e-336c-43da-934b-d614900cfb4c" alt="Home Screen" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/fffd3a82-c412-4b02-ae8d-65f485eec1f2" alt="Best Selling" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/38169eea-9bff-4429-b95c-6529d19752c4" alt="Product Details" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/03888ee9-ef0d-4ea0-8433-03981ab04ab5" alt="Explore Screen" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/807fe1f3-80c3-4280-9b10-b95842765925" alt="Beverages" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/a2c4d0c7-4139-45bc-bf03-bc58356d45e5" alt="Filters" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/1635dbd7-39fe-4cf4-8d23-0e365fde7f87" alt="Search Screen" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/a11ddfd9-1f76-4965-b379-59e9cbdc71db" alt="Cart Screen" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/9aa28724-362a-4794-aa22-d74020b36257" alt="Checkout Sheet" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/b8e41991-95f0-4a34-881e-95f259749ace" alt="Order Accepted" /></td>
+    <td width="20%"><img src="https://github.com/user-attachments/assets/7d5591ef-9201-4fa2-b19a-d3f54181e94b" alt="Favorites" /></td>
+  </tr>
+</table>
