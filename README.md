@@ -1,3 +1,34 @@
+# 🛒 Groceries App UI
+
+## 🍱 UI Preview
+
+<table>
+  <tr>
+    <td width="20%"><img src="screenshots/splash.png" /></td>
+    <td width="20%"><img src="screenshots/onboarding.png" /></td>
+    <td width="20%"><img src="screenshots/login.png" /></td>
+    <td width="20%"><img src="screenshots/signup.png" /></td>
+    <td width="20%"><img src="screenshots/home.png" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><img src="screenshots/bestselling.png" /></td>
+    <td width="20%"><img src="screenshots/product_details.png" /></td>
+    <td width="20%"><img src="screenshots/explore.png" /></td>
+    <td width="20%"><img src="screenshots/beverages.png" /></td>
+    <td width="20%"><img src="screenshots/filters.png" /></td>
+  </tr>
+  <tr>
+    <td width="20%"><img src="screenshots/search.png" /></td>
+    <td width="20%"><img src="screenshots/cart.png" /></td>
+    <td width="20%"><img src="screenshots/checkout.png" /></td>
+    <td width="20%"><img src="screenshots/order_accepted.png" /></td>
+    <td width="20%"><img src="screenshots/favorite.png" /></td>
+  </tr>
+</table>
+
+
+
+
 <img width="<img width="1080" height="2400" alt="Screenshot_20260816_164345" src="https://github.com/user-attachments/assets/4003b836-46c4-4e66-ae6f-17770bf629f6" />
 1080" height="2400" alt="Screenshot_20260816_053132" src="https://github.com/user-attachments/assets/a041ed22-0e09-462d-8ac5-a4248b7713b6" />
 
