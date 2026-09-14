@@ -24,4 +24,11 @@
     <td width="20%"><img src="https://github.com/user-attachments/assets/b8e41991-95f0-4a34-881e-95f259749ace" alt="Order Accepted" /></td>
     <td width="20%"><img src="https://github.com/user-attachments/assets/7d5591ef-9201-4fa2-b19a-d3f54181e94b" alt="Favorites" /></td>
   </tr>
+  <tr>
+    <td width="20%"><img src="YOUR_NEW_IMAGE_URL_HERE" alt="Favorite with Bottom Nav" /></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+    <td width="20%"></td>
+  </tr>
 </table>
