@@ -2,7 +2,8 @@
 
 ## 📱 UI Preview
 
-<table>
+<table><img width="2424" height="1080" alt="Screenshot_20260921_041514" src="https://github.com/user-attachments/assets/f7f329ca-c01f-43f7-9eed-6cf8b367d90f" />
+
   <tr>
     <td width="20%"><img src="https://github.com/user-attachments/assets/60f6e3ce-ad8f-4f42-b768-025b52587c57" alt="Splash" /></td>
     <td width="20%"><img src="https://github.com/user-attachments/assets/7df5da97-fce6-4b10-b675-fe760df16185" alt="Onboarding" /></td>
@@ -23,5 +24,8 @@
     <td width="20%"><img src="https://github.com/user-attachments/assets/9aa28724-362a-4794-aa22-d74020b36257" alt="Checkout Sheet" /></td>
     <td width="20%"><img src="https://github.com/user-attachments/assets/b8e41991-95f0-4a34-881e-95f259749ace" alt="Order Accepted" /></td>
     <td width="20%"><img src="https://github.com/user-attachments/assets/00bbae1e-d10d-4ee6-9583-26d74b60a6df" alt="Favorites" /></td>
+
+    ![Uploading Screenshot_20260921_041514.png…]()
+
   </tr>
 </table>
